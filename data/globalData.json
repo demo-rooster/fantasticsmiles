@@ -1,77 +1,79 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Fantastic Smiles (ROG Orthodontics)",
+  "domain": "fantasticsmiles.com",
+  "email": "braces@fantasticsmiles.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "610-374-4097",
+    "href": "tel:+1-610-374-4097",
+    "aria": "6 1 0, 3 7 4, 4 0 9 7"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Wyomissing",
       "address": {
-        "street": "9650 Main Street",
+        "street": "840 Penn Avenue",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Wyomissing, PA 19610",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-75.9545786",
+          "latitude": "40.3357797"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "610-374-4097",
+        "href": "tel:+1-610-374-4097"
       },
-      "email": "info@mandtortho.com",
-      "hours": [
-        {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
-        }
-      ],
+      "email": "braces@fantasticsmiles.com",
+      "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=840+Penn+Avenue,+Wyomissing,+PA+19610",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Douglassville",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "1204 Benjamin Franklin Highway West",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Douglassville, PA 19518",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "610-374-4097",
+        "href": "tel:+1-610-374-4097"
       },
-      "email": "info@mandtortho.com",
+      "email": "braces@fantasticsmiles.com",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/place/ROG+Orthodontics/@40.25873,-75.7297086,17z/data=!3m1!4b1!4m5!3m4!1s0x89c67d6f12d054e9:0x1a8fd04b18cfb031!8m2!3d40.2587213!4d-75.727523?shorturl=1",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Pottstown",
+      "address": {
+        "street": "1830 E High St",
+        "suite": "",
+        "city_state": "Pottstown, PA 19464",
+        "coordinates": {
+          "longitude": "-75.6085399",
+          "latitude": "40.2439253"
+        }
+      },
+      "phone": {
+        "number": "610-374-4097",
+        "href": "tel:+1-610-374-4097"
+      },
+      "email": "braces@fantasticsmiles.com",
+      "hours": [],
+      "directions_link": {
+        "href": "https://www.google.com/maps/place/ROG+Orthodontics/@40.2436699,-75.6110912,17z/data=!3m1!4b1!4m5!3m4!1s0x89c685c85e5bfeef:0xfdea23c2285b0914!8m2!3d40.2436778!4d-75.6088459?shorturl=1",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,17 +96,17 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "840 Penn Avenue, Wyomissing, PA 19610",
+        "href": "https://www.google.com/maps/search/?api=1&query=840+Penn+Avenue,+Wyomissing,+PA+19610",
+        "label": "View 840 Penn Avenue, Wyomissing, PA 19610 on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "610-374-4097",
+        "href": "tel:+1-610-374-4097",
+        "label": "Call 6 1 0. 3 7 4. 4 0 9 7.",
         "new_window": false
       }
     ],
@@ -150,7 +152,15 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/FantasticSmiles",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/rogfantasticsmiles/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UClbtmRyp2GvRco05Yq5BgGw",
         "icon": "youtube"
       }
     ],
